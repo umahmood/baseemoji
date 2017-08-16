@@ -1,6 +1,6 @@
 # Base Emoji
 
-Base emoji is a Go library which encodes/decodes text to and from emojis. For example encoding the string "i love peanut butter" in base emoji becomes "👂 🔋 👊 🔦 🎲 🐬 🔋 💾 🐬 🌳 🔥 🐸 🍟 🔋 💫 🐸 🍟 🍟 🐬 🍀"
+Base emoji is a Go library which encodes/decodes text to and from emojis. For example, encoding the string "i love peanut butter" to base emoji becomes "👂 🔋 👊 🔦 🎲 🐬 🔋 💾 🐬 🌳 🔥 🐸 🍟 🔋 💫 🐸 🍟 🍟 🐬 🍀".
 
 # Installation
 
